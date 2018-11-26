@@ -1,0 +1,2 @@
+# check google colab memory space
+!df -h --total
